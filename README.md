@@ -55,5 +55,4 @@ I'm **Iván González Martín**, a data scientist, economist, and political scie
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/IvánGonzálezMartín/)  or by email at leztin@outlook.es.
 
 Thank you for visiting my GitHub profile!        
-
 &nbsp;
