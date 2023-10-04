@@ -22,7 +22,7 @@ Soy **Iván González Martín**, científico de datos, economista y politólogo 
 
 ## Contacto
 
-No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/IvánGonzálezMartín/).
+No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/IvánGonzálezMartín/) o por correo electrónico: leztin@outlook.es.
 
 ¡Gracias por visitar mi perfil de GitHub!
 
@@ -52,7 +52,7 @@ I'm **Iván González Martín**, a data scientist, economist, and political scie
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/IvánGonzálezMartín/).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/IvánGonzálezMartín/)  or by email at leztin@outlook.es.
 
 Thank you for visiting my GitHub profile!        
 
