@@ -4,11 +4,10 @@ Soy **Iván González Martín**, científico de datos, economista y politólogo 
 
 ## Sobre mí
 
-- 🎓 Graduado en Economía y Ciencias Políticas por la Universidad Rey Juan Carlos. Premio Extraordinario de Fin de Doble Grado en el curso 2021-2022.
-- 💼 Máster Oficial en Ciencia de Datos e Inteligencia de Negocios por la Universidad Complutense de Madrid. Premio Extraordinario de Fin de Máster en el curso 2022-2023.
+- 🎓 Graduado en Economía y Ciencias Políticas por la Universidad Rey Juan Carlos. Premio Extraordinario de Fin de Doble Grado en el curso 2021-2022. Titulación: 9.1/10.
+- 💼 Máster Oficial en Ciencia de Datos e Inteligencia de Negocios por la Universidad Complutense de Madrid. Premio Extraordinario de Fin de Máster en el curso 2022-2023. Titulación: 9.8/10.
 - 🧮 Academic Specialization in Data Mining and Business Analytics por el SAS Institute.
-- 🤖 Visualizando datos y programando en R, Python y SAS.
-- 📊 Apasionado por el análisis de datos para la toma de decisiones en contextos de riesgo.
+- 🤖 Visualizando datos y programando en R, Python, SQL y SAS. También en Power BI.
 
 ## Proyectos destacados
 
@@ -34,11 +33,10 @@ I'm **Iván González Martín**, a data scientist, economist, and political scie
 
 ## About me
 
-- 🎓 Graduated in Economics and Political Science from Rey Juan Carlos University. Extraordinary Award for the Double Degree in the 2021-2022 academic year.
-- 💼 Official Master's in Data Science and Business Intelligence from Complutense University of Madrid. Extraordinary Award for the Master's Degree in the 2022-2023 academic year.
+- 🎓 Graduated in Economics and Political Science from Rey Juan Carlos University. Extraordinary Award for the Double Degree in the 2021-2022 academic year. Grade: 9.1/10.
+- 💼 Official Master's in Data Science and Business Intelligence from Complutense University of Madrid. Extraordinary Award for the Master's Degree in the 2022-2023 academic year. Grade: 9.8/10.
 - 🧮 Academic Specialization in Data Mining and Business Analytics from the SAS Institute.
-- 🤖 Visualizing data and programming in R, Python, and SAS.
-- 📊 Passionate about data analysis for decision-making in risk contexts.
+- 🤖 Visualizing data and programming in R, Python, SQL and SAS. Also in Power BI.
 
 ## Featured projects
 
