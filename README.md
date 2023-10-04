@@ -33,8 +33,8 @@ I'm **Iván González Martín**, a data scientist, economist, and political scie
 
 ## About me
 
-- 🎓 Graduated in Economics and Political Science from Rey Juan Carlos University. Extraordinary Award for the Double Degree in the 2021-2022 academic year. Grade: 9.1/10.
-- 💼 Official Master's in Data Science and Business Intelligence from Complutense University of Madrid. Extraordinary Award for the Master's Degree in the 2022-2023 academic year. Grade: 9.8/10.
+- 🎓 Graduated in Economics and Political Science from Universidad Rey Juan Carlos. Extraordinary Award for the Double Degree in the 2021-2022 academic year. Grade: 9.1/10.
+- 💼 Official Master's in Data Science and Business Intelligence from Universidad Complutense de Madrid. Extraordinary Award for the Master's Degree in the 2022-2023 academic year. Grade: 9.8/10.
 - 🧮 Academic Specialization in Data Mining and Business Analytics from the SAS Institute.
 - 🤖 Visualizing data and programming in R, Python, SQL and SAS. Also in Power BI.
 
