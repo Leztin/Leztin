@@ -11,7 +11,7 @@ Soy **Iván González Martín**, científico de datos, economista y politólogo 
 
 ## Proyectos destacados
 
-- [Trabajo de Fin de Máster](https://github.com/Leztin/TFM): «Aplicación de técnicas de Deep Learning para la búsqueda e identificación de exoplanetas a través del método del tránsito astronómico». Un estudio exhaustivo para la clasificación de planetas extrasolares a través de material fotométrico y espectroscópico. Python, R y SAS.
+- [Trabajo de Fin de Máster](https://github.com/Leztin/TFM): «Aplicación de técnicas de Deep Learning para la búsqueda e identificación de exoplanetas a través del método del tránsito astronómico». Un estudio exhaustivo para la clasificación de planetas extrasolares a través de material fotométrico y espectroscópico. Python, R y SAS. Titulación: 10/10 Matrícula de Honor.
 - [Clustering: Marketing Campaign](https://github.com/Leztin/Marketing_Campaign): Aplicación de técnicas de reducción de dimensiones y métodos de clustering a una campaña de marketing. R y SAS.
 - [Clasificación binaria: Titanic](https://github.com/Leztin/Titanic): Aplicación de modelos de clasificación binaria (KNN, Random Forest y regresión logística) a [titanic.csv](https://www.kaggle.com/datasets/yasserh/titanic-dataset). R y SAS.
 - [Clasificación binaria: Airline Passenger Satisfaction](https://github.com/Leztin/Airline_Passenger_Satisfaction): Aplicación de distintos algoritmos con selección de modelos (Red neuronal, Gradient Boosting, XGBoost, SVM, Ensamblado, etc.) a [airline_passenger_satisfaction.csv](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction). R y SAS.
@@ -40,7 +40,7 @@ I'm **Iván González Martín**, a data scientist, economist, and political scie
 
 ## Featured projects
 
-- [Master's Thesis](https://github.com/Leztin/TFM): "Application of Deep Learning Techniques for the Search and Identification of Exoplanets through the Astronomical Transit Method." A comprehensive study for the classification of extrasolar planets using photometric and spectroscopic data. Python, R and SAS.
+- [Master's Thesis](https://github.com/Leztin/TFM): "Application of Deep Learning Techniques for the Search and Identification of Exoplanets through the Astronomical Transit Method." A comprehensive study for the classification of extrasolar planets using photometric and spectroscopic data. Python, R and SAS. Grade: 10/10 with honours.
 - [Clustering: Marketing Campaign](https://github.com/Leztin/Marketing_Campaign): Application of dimensionality reduction techniques and clustering methods to a marketing campaign. R and SAS.
 - [Binary Classification: Titanic](https://github.com/Leztin/Titanic): Application of binary classification models (KNN, Random Forest, and logistic regression) to [titanic.csv](https://www.kaggle.com/datasets/yasserh/titanic-dataset). R and SAS.
 - [Binary Classification: Airline Passenger Satisfaction](https://github.com/Leztin/Airline_Passenger_Satisfaction): Application of different algorithms with model selection (Neural Network, Gradient Boosting, XGBoost, SVM, Ensemble, etc.) to [airline_passenger_satisfaction.csv](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction). R and SAS.
