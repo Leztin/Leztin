@@ -4,7 +4,7 @@ Soy **Iván González Martín**, científico de datos, economista y politólogo 
 
 ## Sobre mí
 
-- 🎓 Graduado en Economía y Ciencias Políticas por la Universidad Rey Juan Carlos. Premio Extraordinario de Fin de Doble Grado en el curso 2021-2022. Titulación: 9.1/10.
+- 🎓 Graduado en Economía y Ciencia Política y Gestión Pública por la Universidad Rey Juan Carlos. Premio Extraordinario de Fin de Doble Grado en el curso 2021-2022. Titulación: 9.1/10.
 - 💼 Máster Oficial en Ciencia de Datos e Inteligencia de Negocios por la Universidad Complutense de Madrid. Premio Extraordinario de Fin de Máster en el curso 2022-2023. Titulación: 9.8/10.
 - 🧮 Academic Specialization in Data Mining and Business Analytics por el SAS Institute.
 - 🤖 Visualizando datos y programando en R, Python, SQL y SAS. También en Power BI.
